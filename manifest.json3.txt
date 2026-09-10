@@ -1,0 +1,9 @@
+{
+  "name": "De'ot",
+  "short_name": "De'ot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#02040a",
+  "theme_color": "#02040a",
+  "description": "Plataforma de estudos De'ot"
+}
